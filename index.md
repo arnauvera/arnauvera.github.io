@@ -1,1 +1,9 @@
-Hola soy arnau vera y hago el curso de SMX en el centro de Hospitalet.
+# ARNAU VERA ROUMEAS
+ 
+ 
+
+## FORMACION PROFESIONAL
+
+### GRADO MEDIO DE SISTEMAS MICROINFORMATICOS Y REDES(SMX)                              
+
+ 
