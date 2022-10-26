@@ -9,7 +9,9 @@ características.
 
 ## DATOS DE CONTACTO
 Barcelona
+
 arnauveraifp@gmail.com
+
 644362290
 
 
@@ -31,4 +33,26 @@ ATENEU INSTRUCTIU SANT JOAN DESPÍ (SEPT.2017-AGO.2021)
 8. Orientación al objetivo
 9. Capacidad de aprendizaje 
  
-
+ 
+ ## LOGROS 
+ Certificado B2 inglés
+ 
+ 
+ ## IDIOMAS
+ Nivel medio en inglés
+ Nivel alto en francés
+ Castellano nativo
+ Catalán nativo
+ 
+ 
+ ## PROGRAMAS
+ Programas ofimaticos
+ (Word,PowerPoint,Access,Excel)
+ Whireshark
+ Conocimiento de hardware
+ Oracle Virtualbox
+ Cisco Packet Tracer
+ Programas de edición de videos y fotos
+ (Photoshop,Illustrator,Adobe)
+ Python
+ 
