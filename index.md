@@ -48,11 +48,17 @@ ATENEU INSTRUCTIU SANT JOAN DESPÍ (SEPT.2017-AGO.2021)
  ## PROGRAMAS
  Programas ofimaticos
  (Word,PowerPoint,Access,Excel)
+ 
  Whireshark
+ 
  Conocimiento de hardware
+ 
  Oracle Virtualbox
+ 
  Cisco Packet Tracer
+ 
  Programas de edición de videos y fotos
  (Photoshop,Illustrator,Adobe)
+ 
  Python
  
