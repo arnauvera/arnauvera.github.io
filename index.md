@@ -1,5 +1,5 @@
 # ARNAU VERA ROUMEAS
-[Image] (Rcd_espanyol_logo.svg.png)
+[Image](Rcd_espanyol_logo.svg.png)
  
 ## SOBRE MI
  
