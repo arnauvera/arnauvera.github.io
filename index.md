@@ -34,18 +34,18 @@ ATENEU INSTRUCTIU SANT JOAN DESPÍ (SEPT.2017-AGO.2021)
 9. Capacidad de aprendizaje 
  
  
- ## LOGROS 
+## LOGROS 
  Certificado B2 inglés
  
  
- ## IDIOMAS
+## IDIOMAS
  Nivel medio en inglés
  Nivel alto en francés
  Castellano nativo
  Catalán nativo
  
  
- ## PROGRAMAS
+## PROGRAMAS
  Programas ofimaticos
  (Word,PowerPoint,Access,Excel)
  
